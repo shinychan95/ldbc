@@ -21,8 +21,8 @@ LDBC benchmark test는 총 3가지(ldbc_snb_datagen, ldbc_snb_driver, ldbc_snb_i
 
 
 ## 참고 문헌
-http://www.ldbcouncil.org/benchmarks/snb
-https://github.com/ldbc/ldbc_snb_datagen
-https://github.com/ldbc/ldbc_snb_driver
-https://github.com/ldbc/ldbc_snb_implementations
+- http://www.ldbcouncil.org/benchmarks/snb
+- https://github.com/ldbc/ldbc_snb_datagen
+- https://github.com/ldbc/ldbc_snb_driver
+- https://github.com/ldbc/ldbc_snb_implementations
 
